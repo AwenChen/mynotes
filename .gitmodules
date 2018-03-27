@@ -1,0 +1,3 @@
+[submodule "httpd2"]
+	path = httpd2
+	url = git@github.com:AwenChen/httpd2.git
